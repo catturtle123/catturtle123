@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @catturtle123(jamey)
 - 👀 I’m interested in flutter and back-end
-- 🌱 I’m currently learning flutter and html5/css/js/node.js
+- 🌱 I’m currently learning flutter, firebase and html5/css/js/node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
