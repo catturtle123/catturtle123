@@ -2,13 +2,9 @@
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
-🌟 Git Stats
+🌟 Git Stats & Major Languages
 
-![catturtle123's GitHub stats](https://github-readme-stats.vercel.app/api?username=catturtle123&show_icons=true&theme=dark)
-
-🌟 Major Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catturtle123&layout=Demo&theme=dark) 
+![catturtle123's GitHub stats](https://github-readme-stats.vercel.app/api?username=catturtle123&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catturtle123&layout=Demo&theme=dark) 
 
 🏆 BackJoon Solved Rank
 
