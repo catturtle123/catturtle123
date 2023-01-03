@@ -4,7 +4,10 @@
  
 🌟 Git Stats & Major Languages
 
-![catturtle123's GitHub stats](https://github-readme-stats.vercel.app/api?username=catturtle123&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catturtle123&layout=compact&theme=dark) 
+![catturtle123's GitHub stats](https://github-readme-stats.vercel.app/api?username=catturtle123&show_icons=true&theme=dark) 
+
+#112
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catturtle123&layout=compact&theme=dark) 
 
 🏆 BackJoon Solved Rank
 
