@@ -59,7 +59,7 @@
 
 ---
 
-## 블로그
+## 📕 블로그
 [![Blog](https://img.shields.io/badge/Blog-기술%20블로그-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://student-developer-story.tistory.com)
 
 ---
