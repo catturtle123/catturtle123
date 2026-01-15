@@ -1,6 +1,6 @@
 ## 👨‍💻 김준환 | Backend Engineer
 
-**올바르게 문제를 정의하여 적절하게 해결하는** 백엔드 개발자 김준환 입니다. [![Blog](https://img.shields.io/badge/Blog-기술%20블로그-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://student-developer-story.tistory.com)
+**올바르게 문제를 정의하여 적절하게 해결하는** 백엔드 개발자 김준환 입니다.
 
 ---
 
@@ -56,6 +56,11 @@
 * 농심 NDS AWS 직무캠프 **우수상** (2024)
 * 교내 프로그래밍 대회 (수뭉컵) 개최
   → 인프라 구축 및 문제 출제 (2024 - 2025)
+
+---
+
+## 블로그
+[![Blog](https://img.shields.io/badge/Blog-기술%20블로그-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://student-developer-story.tistory.com)
 
 ---
 
