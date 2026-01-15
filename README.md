@@ -1,6 +1,6 @@
 ## 👨‍💻 김준환 | Backend Engineer
 
-**올바르게 문제를 정의하여 적절하게 해결하는** 백엔드 개발자 김준환 입니다.
+**올바르게 문제를 정의하여 적절하게 해결하는** 백엔드 개발자 김준환 입니다. [![Blog](https://img.shields.io/badge/Blog-기술%20블로그-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://student-developer-story.tistory.com)
 
 ---
 
@@ -59,15 +59,7 @@
 
 ---
 
-## ✍️ Blog
-
-기술 블로그: https://student-developer-story.tistory.com
-
----
-
 ## 🏆 알고리즘
-
-* BOJ / solved.ac
-  [https://solved.ac/musoyou10](https://solved.ac/musoyou10)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=musoyou10)](https://solved.ac/musoyou10)
 
 ---
