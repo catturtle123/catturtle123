@@ -64,7 +64,8 @@
 
 ---
 
-## 🏆 알고리즘
+## 🏆 알고리즘 및 깃허브
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=musoyou10)](https://solved.ac/musoyou10)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBgXqPg)](https://www.git-ranker.com)
 
 ---
