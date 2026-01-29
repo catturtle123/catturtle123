@@ -4,16 +4,22 @@
 
 ---
 
-## 🛠 기술 스택
+## Education
 
-### 언어 · 프레임워크
+- 상명대학교 컴퓨터과학전공 2022.03 ~ 2026.02 (졸업 예정) - GPA 4.43/4.5
+
+---
+
+## 🛠 Tech Stack
+
+### Language · Framework
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-### 인프라 · 데이터
+### Infra · Data
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -24,7 +30,7 @@
 
 ---
 
-## 📌 프로젝트
+## 📌 Project
 
 | 프로젝트명                           | 기간                 | 내용                                                                                                                                                                             | 역할                       |
 | ------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
@@ -40,7 +46,7 @@
 
 ---
 
-## 🧑‍🏫 활동
+## 🧑‍🏫 Activity
 
 | 활동명                                       | 기간                | 내용                                                                                                                                         | 역할                      |
 | ----------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
@@ -50,7 +56,7 @@
 
 ---
 
-## 🏆 수상
+## 🏆 Prize
 
 * INHA SW NET-Zero 해커톤 **대상 / 특별상** (2024)
 * Nerdinary 해커톤 **우수상** (2024)
@@ -59,12 +65,12 @@
 
 ---
 
-## 📕 블로그
+## 📕 Blog
 [![Blog](https://img.shields.io/badge/Blog-기술%20블로그-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://student-developer-story.tistory.com)
 
 ---
 
-## 🏆 알고리즘
+## 🏆 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=musoyou10)](https://solved.ac/musoyou10)
 
 ---
