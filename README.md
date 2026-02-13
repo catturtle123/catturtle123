@@ -46,6 +46,15 @@
 
 ---
 
+## 🌐 Open Source
+
+| 프로젝트 | 내용 | 비고 |
+| --- | --- | --- |
+| **Spring Framework** | STOMP 메시징 헤더 전파 관련 기여 | v7.0.4 릴리즈에 반영 | https://github.com/spring-projects/spring-framework/pull/36179 |
+| **Spring Tools** | VSCode/Eclipse 환경에서 JDBC·JPA·MongoDB 쿼리 생성 개선 | https://github.com/spring-projects/spring-tools/pull/1763 |
+
+---
+
 ## 🧑‍🏫 Activity
 
 | 활동명                                       | 기간                | 내용                                                                                                                                         | 역할                      |
