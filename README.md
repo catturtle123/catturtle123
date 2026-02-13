@@ -40,7 +40,6 @@
 | **Simple-RAG**                  | 2025.08            | 문서 기반 질의응답 시스템<br/>SHA-256 스트리밍 해시로 문서 중복 제거<br/>pgvector 테이블 분리 설계로 확장성 확보<br/>InputStream 기반 OOM 방지                                                                          | 개인 프로젝트                  |
 | **세금 챗봇**<br/>     | 2025.07 ~ 2025.08  | 국세청 문서 기반 세무 Q&A 챗봇<br/>RAG 구조 설계 및 Retriever 튜닝<br/>LangSmith 기반 응답 품질 비교 실험                                                                                                  | 개인 프로젝트                  |
 | **QAStudio**                    | 2024.12 ~ 2025.02  | AI 기반 QA 자동화 플랫폼<br/>GitHub Actions + Docker CI/CD 구축<br/>브랜치 전략·코드 컨벤션 정립                                                                           | Back-End<br/>(Team Lead) |
-| **moim**                        | 2024.07 ~ 2024.09  | 커뮤니티 게시판 서비스 구현<br/>게시글·댓글·좋아요 기능 설계 및 구현<br/>기본 CRUD 및 권한 처리                                                                                                                  | Back-End                 |
 | **가족 같은**                       | 2024.06 ~ 2024.08  | WebSocket 기반 실시간 채팅 서비스<br/>N:M 채팅 구조 설계 및 구현                                                                                                        | Back-End                 |
 | **AvAb**                        | 2023.12 ~ 진행 중     | 레크리에이션 추천 서비스<br/>플로우 기반 추천 시스템 구현<br/>Spring Security 기반 인증·인가 설계                                                                                                             | Back-End                 |
 
