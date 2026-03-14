@@ -40,7 +40,7 @@
 | **세금 챗봇**<br/>     | 2025.07 ~ 2025.08  | 국세청 문서 기반 세무 Q&A 챗봇<br/>RAG 구조 설계 및 Retriever 튜닝<br/>LangSmith 기반 응답 품질 비교 실험                                                                                                  | 개인 프로젝트                  |
 | **QAStudio**                    | 2024.12 ~ 2025.02  | AI 기반 QA 자동화 플랫폼<br/>GitHub Actions + Docker CI/CD 구축<br/>브랜치 전략·코드 컨벤션 정립                                                                           | Back-End<br/>(Team Lead) |
 | **가족 같은**                       | 2024.06 ~ 2024.08  | WebSocket 기반 실시간 채팅 서비스<br/>N:M 채팅 구조 설계 및 구현                                                                                                        | Back-End                 |
-| **AvAb**                        | 2023.12 ~ 진행 중     | 레크리에이션 추천 서비스<br/>플로우 기반 추천 시스템 구현<br/>Spring Security 기반 인증·인가 설계                                                                                                             | Back-End                 |
+| **AvAb**                        | 2023.12 ~ 진행 중     | 레크레이션 추천 서비스<br/>플로우 추천 시스템 구현<br/>Spring Security 기반 인증·인가 설계                                                                                                             | Back-End                 |
 
 ---
 
